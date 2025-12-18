@@ -1,31 +1,15 @@
-# 🎬 MovieLand
+# MoviesLand 🎬
 
-MovieLand is a responsive React application that allows users to search for and browse movies using the **OMDb API**.
+MovieLand is a React-based web application that allows users to browse and explore movies using real-time API data.
 
----
+## Tech Stack
 
-## ✨ Features
+- React
+- JavaScript
+- CSS
+- Movie API
 
-- 🔍 **Movie Search**: Search for movies by title  
-- 🎲 **Random Movie Display**: Loads with a random popular movie search on startup  
-- 📱 **Responsive Design**: Looks great on desktop and mobile devices  
-- 🃏 **Movie Cards**: Displays movie information in an elegant card format with hover effects  
-- ⚠️ **Error Handling**: Gracefully handles cases when no movies are found  
+## How to Run
 
----
-
-## 🛠️ Technologies Used
-
-- ⚛️ **React.js**  
-- 🎨 **CSS3** with custom styling  
-- 🎥 **OMDb API** for movie data  
-
----
-
-## 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Sukhpreet2572/MovieLand.git
-cd MovieLand
+npm install
+npm start
