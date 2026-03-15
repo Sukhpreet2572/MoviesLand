@@ -3,7 +3,7 @@ import MovieCard from './MovieCard';
 import searchIcon from './search.svg';
 import './App.css';
 
-const API_URL = 'http://www.omdbapi.com?apikey=9e6b1b4f';
+const API_URL = 'https://www.omdbapi.com?apikey=9e6b1b4f';
 const MOVIE_NAMES = ['Avengers','Inception','SpiderMan','The Matrix','Interstellar','Nun'];
 
 
